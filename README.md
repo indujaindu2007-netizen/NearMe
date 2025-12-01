@@ -194,7 +194,7 @@ The Math also conducts lectures, prayer sessions, and charitable activities, pro
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-11-26 113948.png>)
+![alt text](map.png)
 ![alt text](<Screenshot (30).png>)
 ![alt text](<Screenshot (26).png>)
 ![alt text](<Screenshot (28).png>)
